@@ -148,7 +148,7 @@ The tool includes robust error handling for:
 
 ## License
 
-[Add your license information here]
+MIT License
 
 ## Support
 
