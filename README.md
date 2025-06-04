@@ -1,6 +1,6 @@
 # SQL Anonymizer
 
-A comprehensive Python toolkit for safely anonymizing proprietary and sensitive information in SQL databases and queries. This tool provides two main components:
+A comprehensive Python toolkit for safely anonymizing proprietary and sensitive information in SQL databases and queries. This will allow usage of cloud LLMs amd/or local LLMs. This tool provides two main components:
 
 1. **Query Anonymizer**: Anonymizes SQL queries for use in cloud-based LLMs or other contexts where data privacy is crucial.
 2. **Schema Anonymizer**: Anonymizes entire SQLite database schemas and data while preserving relationships and structure.
